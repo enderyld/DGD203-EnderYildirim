@@ -1,0 +1,14 @@
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/bin/Debug/net8.0/DGD-Car
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/bin/Debug/net8.0/DGD-Car.deps.json
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/bin/Debug/net8.0/DGD-Car.runtimeconfig.json
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/bin/Debug/net8.0/DGD-Car.dll
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/bin/Debug/net8.0/DGD-Car.pdb
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/DGD-Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/DGD-Car.AssemblyInfoInputs.cache
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/DGD-Car.AssemblyInfo.cs
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/DGD-Car.csproj.CoreCompileInputs.cache
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/DGD-Car.dll
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/refint/DGD-Car.dll
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/DGD-Car.pdb
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/DGD-Car.genruntimeconfig.cache
+/Users/enderyld/RiderProjects/ConsoleApp2/DGD-Car/obj/Debug/net8.0/ref/DGD-Car.dll
