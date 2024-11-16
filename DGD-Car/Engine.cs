@@ -2,7 +2,7 @@ namespace GameCar
 {
     class Engine
     {
-        public string Type { get; private set; } // e.g., "V6", "Electric"
+        public string Type { get; private set; } 
         public int HorsePower { get; private set; }
         public bool IsRunning { get; private set; }
 
